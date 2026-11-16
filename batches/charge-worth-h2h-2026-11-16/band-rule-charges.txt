@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/root/an/band.py", line 3, in <module>
+    F=json.load(open('out/fights.json')); N=json.load(open('out/net.json'))
+                ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'out/fights.json'

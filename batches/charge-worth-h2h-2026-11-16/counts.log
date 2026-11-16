@@ -1,0 +1,28 @@
+06:47 mine-1 3/36 tags ok
+06:50 mine-4 5/36 tags ok
+06:51 opp-3 5/36 tags ok
+06:52 mine-2 6/36 tags ok
+06:54 opp-1 6/36 tags ok
+07:01 opp-2 9/36 tags ok
+07:03 mine-2 12/36
+07:03 mine-3 0/36 - first start died in build, restarted 07:02
+07:04 opp-4 0/36 - first start died in build, restarted 07:05
+07:05 mine-1 11/36
+07:17 opp-4 5/36
+07:20 mine-4 22/36
+07:21 mine-2 20/36
+07:23 mine-3 9/36
+07:33 opp-1 23/36
+07:35 mine-1 24/36
+07:40 mine-2 28/36
+07:46 opp-2 29/36
+07:51 mine-4 DONE 36/36
+07:53 mine-3 27/36
+07:57 mine-2 DONE 36/36 (finding L2131)
+08:00 opp-2 DONE 36/36
+08:01 opp-3 DONE 36/36
+08:06 mine-1 DONE 36/36
+08:07 opp-1 DONE 36/36
+08:10 opp-4 35/36
+08:10 opp-4 DONE 36/36
+08:15 mine-3 DONE 36/36 - all 288 in
