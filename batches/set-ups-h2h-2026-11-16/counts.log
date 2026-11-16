@@ -1,0 +1,24 @@
+10:07 mine-4 3/36
+10:09 mine-1 6/36
+10:13 opp-3 6/36
+10:18 mine-2 3/36 (restarted 10:09 after silent build death)
+10:23 opp-1 12/36
+10:37 mine-4 17/36
+10:37 mine-3 20/36
+10:38 opp-4 0/36 (restarted 10:38 after silent build death)
+10:38 opp-4 split: opp-4 thread plays first 18, owner plays L1126..L3234 as p4b
+10:39 mine-1 24/36
+10:41 opp-2 0/36 (relaunched ~10:37 after silent build death)
+10:49 mine-2 16/36
+10:53 opp-2 5/36
+10:53 opp-1 26/36
+11:05 mine-1 DONE 36/36
+11:17 mine-4 DONE 36/36
+11:17 opp-1 DONE 36/36 saved, 35 ended (L1723 stopped T6: Stupidity unit offered Flee)
+11:20 opp-3 DONE 36/36 (L1216 driver stood in)
+11:21 mine-3 DONE 36/36
+11:21 opp-4 (first 18) DONE 18/18
+11:23 opp-2 21/36
+11:25 opp-4b (owner, last 18) DONE 18/18
+11:33 mine-2 DONE 36/36
+11:55 opp-2 DONE 36/36. ALL 288 saved
