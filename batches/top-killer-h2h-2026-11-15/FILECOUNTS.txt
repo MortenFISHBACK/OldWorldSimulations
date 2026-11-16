@@ -1,0 +1,11 @@
+scripts 17
+tk-mine-1 262
+tk-mine-2 157
+tk-mine-2b 115
+tk-mine-3 220
+tk-mine-3b 115
+tk-mine-4 262
+tk-opp-1 262
+tk-opp-2 262
+tk-opp-3 262
+tk-opp-4 262
