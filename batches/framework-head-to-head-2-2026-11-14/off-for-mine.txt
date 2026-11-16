@@ -1,0 +1,1 @@
+job-framework@mine,stay-weighed@mine,best-first@mine,random-move-by-figures@mine,random-mover-no-promise@mine,stable-role@mine,wounded-stays-out@mine,best-facing@mine,lost-charge@mine,screen-by-what-it-saves@mine,redirect-by-what-it-stops@mine,shooter-counted-once@mine,lure-by-what-it-draws@mine,hill-by-its-chance@mine,war-engine-jobs@mine
