@@ -18,3 +18,4 @@
 | framework-head-to-head-2026-11-13 | 2026-11-13 | ? | 287 | 544 | batches/framework-head-to-head-2026-11-13/compare-all.md |
 | flank-fixes-batch-2026-11-13 | 2026-11-13 | ? | 274 | 376 | batches/flank-fixes-batch-2026-11-13/ |
 | gun-fixes-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 633 | batches/gun-fixes-h2h-2026-11-16/compare-all.md |
+| join-bonus-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 597 | batches/join-bonus-h2h-2026-11-16/compare-all.md |
