@@ -11,3 +11,4 @@
 | framework-head-to-head-2-2026-11-14 | 2026-11-14 | ? | 290 | 560 | batches/framework-head-to-head-2-2026-11-14/compare-all.md |
 | framework-batch-2026-11-13 | 2026-11-13 | ? | 288 | 559 | batches/framework-batch-2026-11-13/report.md |
 | charge-worth-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 559 | batches/charge-worth-h2h-2026-11-16/compare-all.md |
+| charge-odds-h2h-2026-11-15 | 2026-11-15 | ? | 288 | 557 | batches/charge-odds-h2h-2026-11-15/compare-all.md |

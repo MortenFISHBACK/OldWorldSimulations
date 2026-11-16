@@ -1,0 +1,23 @@
+08:24 mine-2 1/36 (session_01JKkpJhijk6eghc8E7dxT1t) rules-off ok
+08:29 opp-1 3/36 (session_01JKkpJj2h28Ae2tLzJxsZb7) rules-off ok
+08:32 opp-2 6/36 (session_01JKkpJimmqEepxoyaUCELk3) rules-off ok
+08:34 opp-4 7/36 (session_01JKkpJhQvRb3zZAyrgPZXwy) rules-off ok
+08:34 mine-3 6/36 (session_01JKkpJihbKPHJtuBX9KQZg4) rules-off ok
+08:46 mine-4 14/36 (session_01JKkpJkXsUKV3sFws2ou4Vg) rules-off ok
+08:54 mine-2 18/36
+08:56 mine-3 18/36; asked mine-1 and opp-3 (silent) for counts
+08:56 mine-1 thread: 0 games, container restarted twice; owner runs mine-1 here
+08:57 opp-3 0/36, first run died, restarted 08:57
+08:59 opp-1 17/36
+09:20 opp-2 DONE 36/36
+09:28 mine-4 DONE 36/36
+09:29 mine-2 DONE 36/36
+09:29 opp-4 DONE 36/36
+09:34 mine-1 (owner) 16/36; asked opp-3 again
+09:36 opp-3 thread 1/36, container unreliable; opp-3 reassigned to opp-2 thread (session_01JKkpJimmqEepxoyaUCELk3)
+09:39 opp-1 DONE 36/36
+09:39 mine-3 DONE 36/36
+09:50 opp-3 (in opp-2 thread) 6/36; mine-1 (owner) 25/36
+10:18 mine-1 DONE 36/36 (owner)
+10:32 opp-3 35/36
+10:38 opp-3 DONE 36/36 (opp-2 thread)
