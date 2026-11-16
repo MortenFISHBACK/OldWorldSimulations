@@ -13,3 +13,4 @@
 | charge-worth-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 559 | batches/charge-worth-h2h-2026-11-16/compare-all.md |
 | charge-odds-h2h-2026-11-15 | 2026-11-15 | ? | 288 | 557 | batches/charge-odds-h2h-2026-11-15/compare-all.md |
 | charge-band-h2h-2026-11-15 | 2026-11-15 | ? | 288 | 557 | batches/charge-band-h2h-2026-11-15/compare-all.md |
+| enemy-forecast-2-batch-2026-11-13 | 2026-11-13 | ? | 288 | 556 | batches/enemy-forecast-2-batch-2026-11-13/report.md |

@@ -1,0 +1,9 @@
+compare 4
+mine-1 261
+mine-2 262
+mine-3 261
+mine-4 261
+opp-1 261
+opp-2 261
+opp-3 261
+opp-4 261
