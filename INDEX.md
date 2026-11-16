@@ -16,3 +16,4 @@
 | enemy-forecast-2-batch-2026-11-13 | 2026-11-13 | ? | 288 | 556 | batches/enemy-forecast-2-batch-2026-11-13/report.md |
 | static-vs-general-2026-11-06 | 2026-11-06 | ? | 0 | 286 | batches/static-vs-general-2026-11-06/compare-18-games-old-vs-new-static.md |
 | framework-head-to-head-2026-11-13 | 2026-11-13 | ? | 287 | 544 | batches/framework-head-to-head-2026-11-13/compare-all.md |
+| flank-fixes-batch-2026-11-13 | 2026-11-13 | ? | 274 | 376 | batches/flank-fixes-batch-2026-11-13/ |
