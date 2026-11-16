@@ -7,3 +7,4 @@
 | shooting-plan-h2h-2026-11-15 | 2026-11-15 | ? | 288 | 567 | batches/shooting-plan-h2h-2026-11-15/compare-all.md |
 | top-killer-h2h-2026-11-15 | 2026-11-15 | ? | 297 | 588 | batches/top-killer-h2h-2026-11-15/compare-all.md |
 | set-ups-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 562 | batches/set-ups-h2h-2026-11-16/compare-all.md |
+| shots-head-to-head-2026-11-15 | 2026-11-15 | ? | 288 | 565 | batches/shots-head-to-head-2026-11-15/compare-all.md |

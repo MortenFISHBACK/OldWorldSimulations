@@ -1,0 +1,9 @@
+scripts 13
+shots-mine-1 262
+shots-mine-2 262
+shots-mine-3 262
+shots-mine-4 262
+shots-opp-1 262
+shots-opp-2 262
+shots-opp-3 262
+shots-opp-4 262
