@@ -1,0 +1,10 @@
+mine-1 262
+mine-2 262
+mine-3 262
+mine-4 262
+opp-1 262
+opp-2 262
+opp-3 262
+opp-4 262
+scripts-from-charge-worth 12
+scripts 18
