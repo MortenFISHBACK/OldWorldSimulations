@@ -9,3 +9,4 @@
 | set-ups-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 562 | batches/set-ups-h2h-2026-11-16/compare-all.md |
 | shots-head-to-head-2026-11-15 | 2026-11-15 | ? | 288 | 565 | batches/shots-head-to-head-2026-11-15/compare-all.md |
 | framework-head-to-head-2-2026-11-14 | 2026-11-14 | ? | 290 | 560 | batches/framework-head-to-head-2-2026-11-14/compare-all.md |
+| framework-batch-2026-11-13 | 2026-11-13 | ? | 288 | 559 | batches/framework-batch-2026-11-13/report.md |

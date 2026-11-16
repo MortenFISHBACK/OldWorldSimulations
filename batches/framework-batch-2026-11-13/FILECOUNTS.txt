@@ -1,0 +1,11 @@
+compare 7
+off-1 262
+off-2 263
+off-3 262
+off-4 262
+on-1 262
+on-2 94
+on-2b 94
+on-2c 94
+on-3 262
+on-4 262
