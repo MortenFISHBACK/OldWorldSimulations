@@ -1,0 +1,9 @@
+fwmine-1 262
+fwmine-2 260
+fwmine-3 258
+fwmine-4 262
+fwopp-1 262
+fwopp-2 260
+fwopp-3 251
+fwopp-4 262
+scripts 6
