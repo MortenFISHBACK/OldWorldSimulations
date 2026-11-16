@@ -1,0 +1,1 @@
+shooting-plan@opponent,target-fixes@opponent,gun-figures@opponent,gun-mask@opponent,gun-view@opponent,gun-threat@opponent
