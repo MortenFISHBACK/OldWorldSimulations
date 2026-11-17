@@ -1,0 +1,1 @@
+advance-worth@opponent,idle-cost@opponent,risk-once@opponent,one-sum@opponent

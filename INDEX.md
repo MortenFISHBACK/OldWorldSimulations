@@ -19,3 +19,4 @@
 | flank-fixes-batch-2026-11-13 | 2026-11-13 | ? | 274 | 376 | batches/flank-fixes-batch-2026-11-13/ |
 | join-bonus-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 597 | batches/join-bonus-h2h-2026-11-16/compare-all.md |
 | gun-fixes-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 634 | batches/gun-fixes-h2h-2026-11-16/compare-all.md |
+| one-sum-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 614 | batches/one-sum-h2h-2026-11-16/compare-all.md |

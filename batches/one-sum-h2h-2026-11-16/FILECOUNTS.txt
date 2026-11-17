@@ -1,0 +1,12 @@
+mine-1a 80
+mine-1b 129
+mine-1c 73
+mine-2 136
+mine-2b 136
+mine-3 262
+mine-4 262
+opp-1 262
+opp-2 262
+opp-3 262
+opp-4 262
+scripts 13
