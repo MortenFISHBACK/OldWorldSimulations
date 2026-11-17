@@ -1,0 +1,20 @@
+13:13 owner: folder set up; build a57fba0d done, smoke L0118 (charge outcomes ON for Mine) running
+13:18 part mine-smoke 1/36
+13:18 owner: smoke L0118 (ON for Mine): rules-off = the four @Opponent; Mine wrote BREAK OUTCOMES 4, OVERRUN ON 1, STAND AND SHOOT 2, Opponent none; JOB SPLIT both sides. go created
+13:44 owner: all 8 count.txt stale since ~13:28 (0 games copied), nudged all parts
+13:46 owner: all 8 parts restarted 13:43-13:45 after silent deaths (~1-3 games each saved)
+13:54 owner: parts died again ~13:47; added KEEP AWAKE waiter to HOW-TO, told all parts
+14:08 part 4 8/36
+14:15 part 8 15/36
+14:25 owner: switched parts to run-part2.sh (one batch.tgz per part, mount file limit)
+14:33 owner: all 8 on batch.tgz; loose files removed, folder 58 files
+14:45 part mine-1 36/36
+14:49 part opp-4 36/36
+14:53 part mine-4 36/36
+14:53 part 4 36/36
+14:58 part opp-3 36/36
+14:59 part opp-2 36/36
+15:03 part opp-1 36/36
+15:11 part mine-2 36/36
+15:13 part mine-3 36/36
+15:14 owner: all 8 parts done, merging

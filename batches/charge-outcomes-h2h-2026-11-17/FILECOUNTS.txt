@@ -1,0 +1,8 @@
+mine-1.tar.gz 36 games
+mine-2.tar.gz 36 games
+mine-3.tar.gz 36 games
+mine-4.tar.gz 36 games
+opp-1.tar.gz 36 games
+opp-2.tar.gz 36 games
+opp-3.tar.gz 36 games
+opp-4.tar.gz 36 games
