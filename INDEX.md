@@ -20,3 +20,4 @@
 | join-bonus-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 597 | batches/join-bonus-h2h-2026-11-16/compare-all.md |
 | gun-fixes-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 634 | batches/gun-fixes-h2h-2026-11-16/compare-all.md |
 | one-sum-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 614 | batches/one-sum-h2h-2026-11-16/compare-all.md |
+| deployment-h2h-2026-11-17 | 2026-11-17 | ? | 576 | 1199 | batches/deployment-h2h-2026-11-17/compare-all.md |
