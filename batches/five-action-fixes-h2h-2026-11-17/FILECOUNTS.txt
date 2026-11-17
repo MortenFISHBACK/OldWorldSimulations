@@ -1,0 +1,8 @@
+mine-1 262
+mine-2 262
+mine-3 262
+mine-4 262
+opp-1 262
+opp-2 259
+opp-3 262
+opp-4 262

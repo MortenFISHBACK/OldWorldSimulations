@@ -21,3 +21,4 @@
 | gun-fixes-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 634 | batches/gun-fixes-h2h-2026-11-16/compare-all.md |
 | one-sum-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 614 | batches/one-sum-h2h-2026-11-16/compare-all.md |
 | five-action-h2h-2026-11-17 | 2026-11-17 | ? | 288 | 612 | batches/five-action-h2h-2026-11-17/compare-all.md |
+| five-action-fixes-h2h-2026-11-17 | 2026-11-17 | 5e477c59 | 287 | 617 | batches/five-action-fixes-h2h-2026-11-17/report.md |
