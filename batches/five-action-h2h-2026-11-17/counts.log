@@ -1,0 +1,27 @@
+02:13 part 3 8/36
+02:14 part 7 9/36
+02:26 owner: 6d6fc47b runs void (five-action off in sims); all parts restarted on 8a943319
+02:42 part 3 6/36
+02:48 part 7 6/36
+02:52 part 2 9/36
+02:53 part 1 10/36
+03:05 owner takes part 5 (opp-1) in its own container
+03:09 part 8 5/36
+03:10 part 4 5/36
+03:21 part 3 9/36 (run died ~02:47, restarted)
+03:32 part 6 30/36
+03:32 part 4 20/36
+03:34 part 7 30/36
+03:38 part 3 9/36 (container restarting every ~8 min)
+03:38 part 3 stopped at 9 (mine-3a); rest split pairs-3b (part 6) / pairs-3c (part 7)
+03:38 part 2 32/36
+03:39 part 6 36/36 done
+03:44 part 7 36/36 copied
+03:45 part 2 36/36 copied
+03:45 part 1 36/36 done, copied
+03:56 part 8 27/36
+04:02 part 4 36/36 done
+04:12 part 5 (owner) 36/36 copied to opp-1
+04:22 part 8 36/36 copied
+04:24 part 7 mine-3c 13/13 copied
+06:27 owner mine-3b 14/14 copied; all 288 in
