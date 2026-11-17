@@ -1,0 +1,1 @@
+20:25 owner: STOP (Morten: margin clear). Run only: pkill -f simulate-local  (run-part.sh then packs batch.tgz and writes counts.log). Do not restart.
