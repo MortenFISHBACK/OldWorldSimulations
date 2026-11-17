@@ -1,0 +1,1 @@
+STOPPED 21:57 UTC by the owner on Morten's rule (check at 50+ games; margin still large: move on). Stop your run (pkill -f simulate-local; pkill -f run-part.sh), make one last pack so <folder>/batch.tgz holds every finished game, append your count to counts.log, message the owner, and stop.
