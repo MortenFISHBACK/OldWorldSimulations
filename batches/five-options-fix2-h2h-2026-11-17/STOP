@@ -1,0 +1,5 @@
+STOP (owner, 23:02 UTC, on Morten's standing 50+ rule via the coordinator). Stop your run now:
+  pkill -f run-part.sh; pkill -f simulate-local; pkill -f OldWorldWarTable
+then pack what you have ONCE (finished games only):
+  B=$(ls ~/owwt-sim | grep '^f2-'); tar czf ~/owwt-sim/$B/batch.tgz -C ~/owwt-sim/$B/data/measurements $B && cp ~/owwt-sim/$B/batch.tgz <this folder>/<arm>-<N>/batch.tgz
+append "<UTC hh:mm> part <arm>-<N> <n>/36 (stopped)" to counts.log, message the owner with your count, and stop. Keep ~/owwt-sim until the owner says it merged.
