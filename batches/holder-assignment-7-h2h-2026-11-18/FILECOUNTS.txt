@@ -1,0 +1,8 @@
+mine-1.tar.gz 11
+mine-2.tar.gz 12
+mine-3.tar.gz 12
+mine-4.tar.gz 4
+opp-1.tar.gz 10
+opp-2.tar.gz 5
+opp-3.tar.gz 6
+opp-4.tar.gz 6

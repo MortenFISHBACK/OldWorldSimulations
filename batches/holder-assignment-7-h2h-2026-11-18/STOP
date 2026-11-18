@@ -1,0 +1,3 @@
+STOPPED by the coordinator at 22:20 UTC (walk fault unchanged at the 54-game reading). Do not restart. Run this ONE line, then tell the owner your count and stop:
+
+D=/mnt/project-files/holder-assignment-7-h2h-2026-11-18; pkill -f run-part.sh; pkill -f simulate-local; sleep 5; B=$(ls -d ~/owwt-sim/h7-*-dcce224-p* | head -1); A=$(basename $B | sed -E 's/h7-(mine|opp)-dcce224-p([0-9])/\1-\2/'); tar czf $B/batch.tgz.tmp -C $B/data/measurements $(basename $B) && cp $B/batch.tgz.tmp $D/$A/batch.tgz.tmp && mv -f $D/$A/batch.tgz.tmp $D/$A/batch.tgz; n=$(tar tzf $D/$A/batch.tgz | grep -c 'game-.*\.log\.jsonl$'); echo "$(date -u +%H:%M) part $A $n/36 STOPPED" | tee -a $D/counts.log
