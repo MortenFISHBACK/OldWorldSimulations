@@ -1,0 +1,67 @@
+part	game	turn	unit_id	unit	target_id	target	claimed_vp	claimed_pct	row_id	outcome	detail
+mine-1	game-L0218-2-1.log.jsonl	4	12146	Razorgor 3	12160	Ironblaster 1	2.8	100	7011	Target dead, fleeing or in a fight before our turn	target: friend charged it the same turn (own army)
+mine-1	game-L0319-1-1.log.jsonl	2	12138	Iron Daemon 2	12150	Goblin Wolf Riders 1	47.1	100	5900	Charge on offer next turn, not taken	
+mine-1	game-L0319-1-1.log.jsonl	3	12137	Iron Daemon 1	12147	Orc Warboss	128.0	75	6346	Target dead, fleeing or in a fight before our turn	target: it charged in its turn (enemy turn)
+mine-1	game-L0319-1-1.log.jsonl	4	12138	Iron Daemon 2	12154	Stone Trolls	154.4	89	6741	Our unit dead, fleeing, charged or pinned	
+mine-1	game-L0421-1-1.log.jsonl	1	12137	Hobgoblin Cutthroats 1	12147	Weapon Team (Renegade 2.0) (Doom-Flayer)	47.8	100	5683	Charge on the list, own figure at or below zero	
+mine-1	game-L0421-1-1.log.jsonl	4	12133	Black Orc Warboss	12150	Clanrats (Grand Banner of Superiority (Renegade 2.0))	329.3	100	6974	Charge on offer next turn, not taken	
+mine-2	game-L0106-4-1.log.jsonl	4	12139	Primal Warherd	12151	Dwarf Warriors	381.9	100	7159	Charged the promised target	
+mine-3	game-L0126-6-1.log.jsonl	5	12144	Harpies	12149	Dire Wolves	9.9	26	6919	Our unit dead, fleeing, charged or pinned	
+mine-3	game-L0327-3-1.log.jsonl	3	12137	Iron Daemon 1	12157	Hexwraiths 1	111.4	75	6471	Charged another target instead	
+mine-3	game-L0413-5-1.log.jsonl	1	12133	Black Orc Warboss	12142	Prince (General)	105.2	86	5746	Target dead, fleeing or in a fight before our turn	target: it charged in its turn (enemy turn)
+mine-3	game-L0413-5-1.log.jsonl	2	12133	Black Orc Warboss	12144	Noble (BSB)	255.2	100	6211	Target moved in its turn, no charge left	
+mine-3	game-L0429-3-1.log.jsonl	2	12133	Black Orc Warboss	12147	Dragon Ogres 1	57.0	100	5752	Target dead, fleeing or in a fight before our turn	target: friend charged it the same turn (own army)
+mine-3	game-L0429-3-1.log.jsonl	2	12134	Sorcerer-Prophet (General)	12145	Chaos Warriors	157.2	100	5909	Target moved in its turn, no charge left	
+mine-3	game-L0429-3-1.log.jsonl	5	12133	Black Orc Warboss	12145	Chaos Warriors	27.6	100	6862	Charge on the list, own figure at or below zero	
+mine-4	game-L0230-2-1.log.jsonl	2	12145	Razorgor 2	12155	Marauder Horsemen 1	26.3	100	5941	Charged the promised target	
+mine-4	game-L0230-2-1.log.jsonl	2	12148	Tuskgor Chariot 2	12156	Marauder Horsemen 2	7.1	56	5942	Target moved in its turn, no charge left	
+mine-4	game-L0332-2-1.log.jsonl	4	12138	Iron Daemon 2	12150	Marauder Tribe Berserkers	60.1	97	6747	Our unit dead, fleeing, charged or pinned	
+opp-1	game-L0118-4-1.log.jsonl	3	12148	Ironguts	12137	Gors (Monster Hunter's Tapestry)	480.9	98	6546	Own move phase: promised move not made	charge no longer there from the spot
+opp-1	game-L0118-4-1.log.jsonl	3	12151	Gnoblar Fighters 1	12144	Harpies	26.0	97	6578	Target moved in its turn, no charge left	
+opp-1	game-L0135-3-1.log.jsonl	2	12146	Glade Lord (General)	12140	Ungors 1	54.8	100	5936	Charged the promised target	
+opp-1	game-L0135-3-1.log.jsonl	2	12156	Tree Kin 1	12141	Ungors 2	35.4	100	6115	Charge on offer next turn, not taken	
+opp-1	game-L0135-3-1.log.jsonl	2	12157	Tree Kin 2	12141	Ungors 2	35.4	100	6116	Target moved in its turn, no charge left	
+opp-1	game-L0218-2-1.log.jsonl	1	12159	Sabretusks 2	12143	Chaos Warhounds	18.3	100	5607	Nothing moved, yet no charge listed	
+opp-1	game-L0218-2-1.log.jsonl	3	12158	Sabretusks 1	12145	Razorgor 2	16.3	69	6719	Charged the promised target	
+opp-1	game-L0218-2-1.log.jsonl	4	12150	Hunter (Renegade 2.0)	12140	Gors (Ring of Doom)	35.3	100	7236	Charged the promised target	
+opp-1	game-L0235-1-1.log.jsonl	4	12158	Wardancers 3	12140	Gors (Ring of Doom)	64.6	100	7330	Charged the promised target	
+opp-1	game-L0235-1-1.log.jsonl	4	12161	Tree Kin 2	12141	Ungors	66.8	100	7331	Charged the promised target	
+opp-1	game-L0508-4-1.log.jsonl	5	12162	Empire Steam Tank	12140	Thunderers 1	151.3	33	7312	Target moved in its turn, no charge left	
+opp-2	game-L0106-4-1.log.jsonl	1	12158	Gyrobomber	12144	Harpies	42.9	100	5640	Target dead, fleeing or in a fight before our turn	target: dead/fled in enemy turn or our next turn before charges
+opp-2	game-L0106-4-1.log.jsonl	1	12162	Doomseeker	12144	Harpies	29.3	54	5641	Target dead, fleeing or in a fight before our turn	target: dead/fled in enemy turn or our next turn before charges
+opp-2	game-L0122-2-1.log.jsonl	1	12147	Tomb King (Armour of Meteoric Iron, General)	12141	Ungors 2	64.3	100	5786	Charged the promised target	
+opp-2	game-L0122-2-1.log.jsonl	1	12148	Tomb King (Armour of Destiny)	12140	Ungors 1	64.7	100	5787	Charged the promised target	
+opp-2	game-L0122-2-1.log.jsonl	1	12159	Necrosphinx 2	12141	Ungors 2	59.7	94	5792	Target dead, fleeing or in a fight before our turn	target: friend charged it first next turn (own army)
+opp-2	game-L0122-2-1.log.jsonl	5	12149	Skeleton Chariot	12138	Gors	38.4	86	7396	Target dead, fleeing or in a fight before our turn	target: dead/fled in our same turn (own army)
+opp-2	game-L0206-2-1.log.jsonl	3	12166	Doomseeker	12148	Tuskgor Chariot 2	18.9	38	6963	Target dead, fleeing or in a fight before our turn	target: dead/fled in our same turn (own army)
+opp-2	game-L0206-2-1.log.jsonl	4	12166	Doomseeker	12146	Razorgor 3	9.8	26	7461	Charge on the list, own figure at or below zero	
+opp-2	game-L0222-6-1.log.jsonl	1	12153	Skeleton Chariot	12147	Tuskgor Chariot 1	16.2	100	5818	Target moved in its turn, no charge left	
+opp-2	game-L0222-6-1.log.jsonl	1	12162	Necrosphinx 1	12145	Razorgor 2	39.3	100	5819	Charged the promised target	
+opp-2	game-L0222-6-1.log.jsonl	2	12163	Necrosphinx 2	12148	Tuskgor Chariot 2	77.9	100	6333	Charge on offer next turn, not taken	
+opp-2	game-L0222-6-1.log.jsonl	3	12162	Necrosphinx 1	12138	Wargor (Mantle of Drifting Shadow)	62.7	100	6865	Charged another target instead	
+opp-2	game-L0222-6-1.log.jsonl	3	12163	Necrosphinx 2	12144	Razorgor 1	37.9	97	6866	Target dead, fleeing or in a fight before our turn	target: friend charged it first next turn (own army)
+opp-2	game-L0307-1-1.log.jsonl	2	12147	Wizard Lord	12135	Hobgoblin Cutthroats 1	55.9	86	6263	Target dead, fleeing or in a fight before our turn	target: dead/fled in enemy turn or our next turn before charges
+opp-2	game-L0307-1-1.log.jsonl	5	12147	Wizard Lord	12140	Dreadquake Mortar (Renegade 2.0)	109.3	94	7503	Our unit dead, fleeing, charged or pinned	
+opp-2	game-L0323-5-1.log.jsonl	1	12146	Tomb King (Flail of Skulls, General)	12137	Iron Daemon 1	108.8	100	5585	Charged another target instead	
+opp-2	game-L0323-5-1.log.jsonl	5	12155	Tomb Scorpion 2	12143	Deathshrieker Rocket Launcher (Renegade 2.0) 2	79.6	75	7462	Our unit dead, fleeing, charged or pinned	
+opp-3	game-L0110-2-1.log.jsonl	1	12147	Shugengan Lord (The Monkey King's Wisdom)	12144	Harpies	50.6	100	5531	Charged another target instead	
+opp-3	game-L0110-2-1.log.jsonl	3	12147	Shugengan Lord (The Monkey King's Wisdom)	12141	Ungors 2	20.0	100	6388	Own move phase: promised move not made	none of the spots weighed
+opp-3	game-L0126-6-1.log.jsonl	3	12154	Varghulf (Renegade 2.0)	12141	Ungors 2	83.7	100	6168	Target dead, fleeing or in a fight before our turn	target: friend charged it the same turn (own army)
+opp-3	game-L0210-6-1.log.jsonl	2	12152	Shugengan Lord (The Sword of Reason, General)	12146	Razorgor 3	31.7	75	6203	Own move phase: promised move not made	another move worth more
+opp-3	game-L0210-6-1.log.jsonl	2	12150	Shugengan General	12145	Razorgor 2	30.5	100	6241	Target dead, fleeing or in a fight before our turn	target: dead/fled in our same turn (own army)
+opp-3	game-L0210-6-1.log.jsonl	4	12152	Shugengan Lord (The Sword of Reason, General)	12146	Razorgor 3	26.8	100	7256	Charge on offer next turn, not taken	
+opp-3	game-L0210-6-1.log.jsonl	5	12150	Shugengan General	12141	Ungors	59.6	100	7693	Own move phase: promised move not made	none of the spots weighed
+opp-3	game-L0210-6-1.log.jsonl	5	12152	Shugengan Lord (The Sword of Reason, General)	12146	Razorgor 3	40.1	100	7731	Charge on offer next turn, not taken	
+opp-3	game-L0413-5-1.log.jsonl	2	12142	Prince (General)	12139	Hobgoblin Wolf Riders	82.5	100	6051	Target moved in its turn, no charge left	
+opp-3	game-L0413-5-1.log.jsonl	3	12145	Elven Spearmen	12133	Black Orc Warboss	180.1	54	6568	Charged the promised target	
+opp-3	game-L0413-5-1.log.jsonl	4	12142	Prince (General)	12137	Hobgoblin Cutthroats 1	90.3	100	7038	Charge on offer next turn, not taken	
+opp-3	game-L0413-5-1.log.jsonl	5	12142	Prince (General)	12139	Hobgoblin Wolf Riders	63.2	100	7531	Target moved in its turn, no charge left	
+opp-4	game-L0114-6-1.log.jsonl	1	12146	Prince (General)	12141	Ungors 2	60.4	100	5700	Target dead, fleeing or in a fight before our turn	target: friend charged it first next turn (own army)
+opp-4	game-L0114-6-1.log.jsonl	1	12151	Silver Helms 2	12141	Ungors 2	3.3	38	5702	Charged the promised target	
+opp-4	game-L0114-6-1.log.jsonl	2	12146	Prince (General)	12137	Gors (Monster Hunter's Tapestry)	195.7	100	6062	Charged the promised target	
+opp-4	game-L0114-6-1.log.jsonl	2	12153	Dragon Princes 2	12140	Ungors 1	35.9	58	6064	Target moved in its turn, no charge left	
+opp-4	game-L0114-6-1.log.jsonl	5	12147	Archmage	12137	Gors (Monster Hunter's Tapestry)	561.2	94	7044	Charged the promised target	
+opp-4	game-L0130-4-1.log.jsonl	1	12147	Exalted Champion (Armour of Meteoric Iron)	12137	Gors (Monster Hunter's Tapestry)	64.9	100	5587	Charged the promised target	
+opp-4	game-L0230-2-1.log.jsonl	3	12159	Dragon Ogres	12145	Razorgor 2	45.4	100	6180	Target dead, fleeing or in a fight before our turn	target: friend charged it the same turn (own army)
+opp-4	game-L0230-2-1.log.jsonl	4	12151	Exalted Champion (Armour of Meteoric Iron)	12139	Gors (Obsidian Lodestone)	647.7	100	6653	Target moved in its turn, no charge left	
+opp-4	game-L0315-3-1.log.jsonl	2	12146	Prince (General)	12138	Iron Daemon 2	217.1	98	5955	Charged the promised target	

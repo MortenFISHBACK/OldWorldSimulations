@@ -1,0 +1,1 @@
+STOPPED by the coordinator at 23:42 UTC (known fault unchanged at 50 games). Stop your run: pkill -f simulate-local (run-part.sh then packs batch.tgz a last time and writes counts.log; wait for it to end), kill your waiter, message the owner your final count, and stop. Keep ~/owwt-sim.
