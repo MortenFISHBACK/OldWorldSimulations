@@ -91,3 +91,11 @@ Thinking time per side is not in the logs; only the whole game's length.
 
 Scripts in scripts/: analyse10.sh + try 9's (report.py now skips unfinished games), promise9.py, joint/joint.py, m10.py (section 3).
 Readings: early-reading-54.md, reading-156.md.
+
+## Where things are
+- Replays: WarhammerOldWorldSimulator branch claude/project-thread-aves0y a0351a4c (deploy/sim-replays/t10-<mine|opp>-ba3e30a-p1..4,
+  on-site.txt = only these 8); they show on the test site after the next push to main.
+- Sim bugs: S-d31045 (L1633, Hounds of Orion: no move found after a combat, game stalled) and S-fef937 (L0210, Jade Lancers set-up
+  position; already listed as a sim bug without a thread).
+- Archive: OldWorldSimulations branch claude/project-thread-aves0y (8 part tarballs, 254 games, verified by blob hash).
+- Game logs (batch.tgz per part) STAY on the mount until the coordinator says the analysis "Find why promised charges vanish" is done.
