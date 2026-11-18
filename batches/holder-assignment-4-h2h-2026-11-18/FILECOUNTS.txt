@@ -1,0 +1,11 @@
+mine-1 16
+mine-2 17
+mine-3 13
+mine-4 11
+opp-1 4
+opp-2 12
+opp-3 13
+opp-4 11
+scripts-build 0
+scripts 0
+smoke 1

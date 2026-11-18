@@ -1,0 +1,1 @@
+STOPPED by Morten 17:40 UTC: stop your run now (pkill -f simulate-local; pkill -f run-part.sh), keep ~/owwt-sim, report your count to the owner and stop.
