@@ -4,7 +4,7 @@
 head: the table tests "within 6 inches and able" while the game gives an objective to the NEAREST able unit, one object per unit; and
 end-of-battle objectives (special feature, Herdstone, baggage) still use the old figure. A fixed head gets a fresh batch.
 The assigned marker holder scores its marker that round 65% of the time; the hill holder 24%. Markers gain +28 VP a game, objectives
-overall -12, VP margin -21 ±160 (noise). The cheapest able unit does not score more often (42% v 46%).
+overall -12 (the gap is in table quarters, which the table does not assign), VP margin -21 ±160 (noise). The cheapest able unit does not score more often (42% v 46%).
 
 Build 95a3d390 (claude/project-thread-bj3s5r, from the overhaul e62ea8a6). Both sides play the overhaul's pricing; the only difference
 is `holder-assignment`, off for one side (`@opponent` in mine-1..4, `@mine` in opp-1..4, same pairs both ways). 144 DKTC pairs chosen
@@ -49,8 +49,9 @@ VP margin ON v OFF: **-21 ±160** (56 won, 69 lost, 43 drawn); by source: object
 
 ## Leads (from logs, not checked in code; the build thread's code-check-55.md covers the causes)
 
-- Markers +28 and hill/baggage -6 from the per-turn rows leave about -34 a game on end-of-battle objectives, which the table still
-  assigns 895 times on the old figure.
+- CORRECTED (the build thread checked my end-of-battle lead in code and logs, end-of-battle-check-155.md): special feature, Herdstone and
+  baggage together cost the ON side only about 2 VP a game (feature -10 ±22, Herdstone +9 ±11, baggage -4). The end-of-battle gap sits
+  in the TABLE QUARTERS (Domination): 199 v 231, -32 ±38 (noise), and the table does not assign quarters at all.
 - "Gives up least" does not land on the cheapest unit: more objectives than cheap units, so cheap units are spent on feature/baggage.
 - The hill holder rarely gets there (24%).
 
