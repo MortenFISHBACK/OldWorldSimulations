@@ -20,3 +20,4 @@
 | join-bonus-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 597 | batches/join-bonus-h2h-2026-11-16/compare-all.md |
 | gun-fixes-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 634 | batches/gun-fixes-h2h-2026-11-16/compare-all.md |
 | one-sum-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 614 | batches/one-sum-h2h-2026-11-16/compare-all.md |
+| try-12-h2h-2026-11-18 | 2026-11-18 | 9ffac812b | 85 | 15 | batches/try-12-h2h-2026-11-18/report.md |
