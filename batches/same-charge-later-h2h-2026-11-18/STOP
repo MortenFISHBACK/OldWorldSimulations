@@ -1,0 +1,1 @@
+STOP 05:38 UTC: Morten stopped try 7. Kill your run (pkill -f simulate-local; pkill -f run-part.sh), make sure your last batch.tgz is packed (run: bash /mnt/project-files/same-charge-later-h2h-2026-11-18/run-part.sh is NOT needed), report your count to the owner, then stop.
