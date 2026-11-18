@@ -1,0 +1,1 @@
+STOP 14:54 UTC by the owner (coordinator's word): try 10 ends here. Run: pkill -f simulate-local  (only that: run-part.sh then packs batch.tgz and appends counts.log; wait for its PART NOT COMPLETE line), stop your waiter, report your final count to the owner, then stop. Do not run the line again.
