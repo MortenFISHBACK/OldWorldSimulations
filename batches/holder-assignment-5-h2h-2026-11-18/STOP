@@ -1,0 +1,5 @@
+STOPPED by Morten 19:14 UTC. Do this now, once:
+  pkill -f simulate-local; pkill -f 'dotnet.*OldWorldWarTable'
+run-part.sh then packs your finished games into <folder>/batch.tgz, writes counts.log and prints "PART NOT COMPLETE": that is expected.
+Wait until `tail ~/h5-part.log` shows that line (or `pgrep -f run-part.sh` is empty), stop your keep-awake waiter, report your count
+to the owner thread, and stop. Do NOT run the line again. Do not delete ~/owwt-sim.
