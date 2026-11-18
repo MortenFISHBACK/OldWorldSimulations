@@ -1,0 +1,8 @@
+mine-1 12
+mine-2 11
+mine-3 10
+mine-4 9
+opp-1 7
+opp-2 10
+opp-3 9
+opp-4 10

@@ -1,0 +1,1 @@
+STOPPED by the coordinator at 07:22 UTC (about 60 games): stop your run now (pkill -f simulate-local; pkill -f run-part.sh), let the last pack finish (run the pack once: the batch.tgz on the mount must hold your finished games), append your count to counts.log, report your count to the owner, and stop. Do not start the run again.
