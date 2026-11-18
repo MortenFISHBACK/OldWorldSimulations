@@ -1,0 +1,32 @@
+GAMES 205
+## Charges a game (declared)
+| | ON | OFF |
+|---|---|---|
+| alone | 3.06 | 3.10 |
+| lead | 0.47 | 0.50 |
+| second | 0.55 | 0.55 |
+| all | 4.08 | 4.15 |
+
+## Fights (contact made): first round won claimed v happened; net points over 2 turns (target lost - all chargers lost)
+| | n ON | won claimed v happened ON | net ON | n OFF | won claimed v happened OFF | net OFF |
+|---|---|---|---|---|---|---|
+| alone | 454 | 71 v 73 | +64 | 462 | 72 v 76 | +71 |
+| joint | 78 | 65 v 76 | +33 | 82 | 52 v 77 | +51 |
+(joint claim ON = the JOINT CHARGE NOW set figure where a row exists; OFF = best single unit's own figure)
+
+## JOINT CHARGE NOW rows
+ON: rows 109 (0.53 a game), sets claimed 52, two+ declared 51, two+ made contact 31; all in claimed 79% v both in 60%; first round won (both in) claimed 71 v 77 (n 31)
+OFF: rows 0 (0.00 a game), sets claimed 0, two+ declared 0, two+ made contact 0
+
+## Ready pairs (2+ units with a charge on the same target in their weighed options, that turn)
+| | ON | OFF |
+|---|---|---|
+| ready | 447 (2.18/game) | 477 (2.33/game) |
+| both | 77 (0.38/game) | 79 (0.39/game) |
+| one | 180 (0.88/game) | 199 (0.97/game) |
+| none | 190 (0.93/game) | 199 (0.97/game) |
+
+## Net points per charged fight, claimed v happened (mean)
+ON alone: pick gain claimed +192 VP v net +69 (n 441)
+ON joint (JOINT CHARGE NOW sets): kills - own losses claimed +147 v net +49 (n 46)
+OFF alone: pick gain claimed +188 VP v net +77 (n 456)

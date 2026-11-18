@@ -1,0 +1,17 @@
+GAMES 205; margin -90 ±168; won 81 lost 89 drawn 35
+points lost a game new/old 644 600
+ VP by source objectives -42
+ VP by source kills -42
+ VP by source leaders -6
+ VP by source other +0
+
+DECISIONS taken (share)
+new 9650 move 35%, march 24%, shoot 19%, stand 12%, charge 8%, join 1%, support 1%
+old 9679 move 35%, march 23%, shoot 19%, stand 12%, charge 8%, join 1%, support 1%
+
+CHARGE offered/taken {'new': {'offered': 1298, 'taken': 749}, 'old': {'offered': 1307, 'taken': 773}} declared {'new': 836, 'old': 851} contact {'new': 610, 'old': 631}
+passed over -> [('move', 261), ('march', 187), ('stand', 58), ('shoot', 39), ('support', 3), ('join', 1)] median picked 78.1 median best charge 21.6 charge<=0 31%
+claimed worth of charges taken: new median 113.0 old median 109.6
+
+MOVE TO CHARGE picks (new): 839 median claimed 85.8 charged that target next turn 158 19%
+ claimed >=50: 626 came 133
