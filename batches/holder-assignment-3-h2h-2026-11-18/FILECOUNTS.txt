@@ -1,0 +1,9 @@
+mine-1 36
+mine-2 36
+mine-3 36
+mine-4 36
+opp-1 36
+opp-2 36
+opp-3 36
+opp-4 36
+scripts 6
