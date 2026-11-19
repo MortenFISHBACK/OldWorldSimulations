@@ -115,3 +115,14 @@ Matches try 15, as expected (nothing in play changed).
    much larger a turn later. Compare one example's promise row with its below-zero row.
 4. WHAT THE JOINER ADDS appears twice in the parts of 5 of 39 rows: possibly counted twice.
 5. FIVE ACTION is not equal to the total in 9 of 39 rows: 8 of those 9 carry JOINT CHARGE NOW (a joint charge's own sum on top).
+
+## Sim findings (on the replay page, filed when the site starts)
+7 findings, all "BOARD BOUND promise" (a promise figure above what the board can give): L1431-3 (mine-1); L0733-1, L0823-1, L1625-5,
+L2025-3 (opp-1); L1026-6, L1135-1 (opp-2). Largest: L0733 Wild Riders on Great Cannon 3, ~627 VP claimed, board gives ~93.
+
+## Where things are
+- Replay page: branch claude/project-thread-7zk83e of the app repo (b23109a46, from main 8ed47179), folders deploy/sim-replays/hmw-*-c1e47a9-p1/p2;
+  on-site.txt lists these 4. Shows after the next push to main.
+- Game logs: archived to MortenFISHBACK/OldWorldSimulations, branch claude/project-thread-7zk83e (not merged to its main),
+  batches/his-move-why-2026-11-19/, checksums verified against the mount copies; removed from this folder.
+- Counting scripts: scripts/ here (hmw.py writes ~/ana/hmw.json; rep.py prints the tables).
