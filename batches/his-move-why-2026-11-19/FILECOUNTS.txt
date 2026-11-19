@@ -1,0 +1,4 @@
+hmw-mine-1 298
+hmw-mine-2 298
+hmw-opp-1 298
+hmw-opp-2 298
