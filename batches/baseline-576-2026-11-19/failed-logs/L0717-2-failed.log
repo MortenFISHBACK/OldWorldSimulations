@@ -1,0 +1,28 @@
+Test run for /root/WarhammerOldWorldSimulator/tests/OldWorldWarTable.Web.Tests/bin/Release/net10.0/OldWorldWarTable.Web.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+[xUnit.net 00:26:38.98]     OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(pair: "L0717", scenario: 3, seed: 2) [FAIL]
+  Failed OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(pair: "L0717", scenario: 3, seed: 2) [26 m 35 s]
+  Error Message:
+   Microsoft.Data.Sqlite.SqliteException : SQLite Error 5: 'unable to delete/modify user-function due to active statements'.
+  Stack Trace:
+     at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteConnection.Deactivate()
+   at Microsoft.Data.Sqlite.SqliteConnection.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.ResetState(Boolean disposeDbConnection)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.Dispose()
+   at Microsoft.EntityFrameworkCore.DbContext.Dispose()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.Dispose()
+   at Bunit.BunitServiceProvider.Dispose() in /_/src/bunit/BunitServiceProvider.cs:line 160
+   at Bunit.BunitContext.Dispose(Boolean disposing) in /_/src/bunit/BunitContext.cs:line 131
+   at Bunit.BunitContext.Dispose() in /_/src/bunit/BunitContext.cs:line 73
+   at OldWorldWarTable.Web.Tests.PlaythroughGame.Dispose() in /root/WarhammerOldWorldSimulator/tests/OldWorldWarTable.Web.Tests/PlaythroughGame.cs:line 1080
+   at OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(String pair, Int32 scenario, Int32 seed) in /root/WarhammerOldWorldSimulator/tests/OldWorldWarTable.Web.Tests/SimulationBatchTests.cs:line 363
+--- End of stack trace from previous location ---
+  Standard Output Messages:
+ Rules off: none
+ Carried lessons: 68 entries from /root/owwt-sim/base-s2-882d875-p1/carried-lessons.jsonl
+ Carried unit records: 1700 entries from /root/owwt-sim/base-s2-882d875-p1/carried-units.jsonl
+
+
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 26 m 35 s - OldWorldWarTable.Web.Tests.dll (net10.0)

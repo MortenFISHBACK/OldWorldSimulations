@@ -1,0 +1,112 @@
+thread Thread (679) game ms 300023 window ms 300022
+100.0%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage.GatedOpponentStepAsync(bool)
+100.0%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage+<RunOpponentLoopAsync>d__1167.MoveNext()
+100.0%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage+<GatedOpponentStepAsync>d__1186.MoveNext()
+ 97.8%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage+<NextOpponentStepAsync>d__1203.MoveNext()
+ 77.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.Candidates(class Context,class OldWorldWarTable.Web.Services.Opponent.MoveOption,class OldWorldWarTab
+ 65.8%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage.NextOpponentStepAsync()
+ 64.4%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.WideSearchBest(class Context,class OldWorldWarTable.Web.Services.Opponent.MoveOption,class OldWorldWa
+ 54.2%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.FiveMoveOptions(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile)
+ 52.0%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage+<ComputerRemainingStepAsync>d__1238.MoveNext()
+ 52.0%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage.ComputerRemainingStepAsync()
+ 52.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.PlanMovesAsync(class OldWorldWarTable.Web.Services.Opponent.OpponentView,class System.Collections.Gen
+ 52.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<PlanMovesAsync>d__464.MoveNext()
+ 51.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.PlanMovesCoreAsync(class OldWorldWarTable.Web.Services.Opponent.OpponentView,class System.Collections
+ 51.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<PlanMovesCoreAsync>d__1243.MoveNext()
+ 49.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.FiveAt(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64,bool,bool
+ 44.9%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage+<ComputerStrategyStepAsync>d__1347.MoveNext()
+ 44.9%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage.ComputerStrategyStepAsync()
+ 44.9%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage.ComputerObjectivesStepAsync(class OldWorldWarTable.Web.Services.Opponent.OpponentView)
+ 44.9%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage+<ComputerObjectivesStepAsync>d__1286.MoveNext()
+ 44.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<PlanTurnObjectivesAsync>d__1462.MoveNext()
+ 44.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.PlanTurnObjectivesAsync(class OldWorldWarTable.Web.Services.Opponent.OpponentView)
+ 44.3%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<TableAgainAsync>d__1950.MoveNext()
+ 44.3%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.TableAgainAsync(class OldWorldWarTable.Web.Services.Opponent.OpponentView,class System.Collections.Ge
+ 43.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.FiveCandidate(class Context,class OldWorldWarTable.Web.Services.BoardToken,class MoveCandidate,value 
+ 43.3%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.FiveNext(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class Old
+ 43.2%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.TableAgain(class Context,class System.Collections.Generic.IReadOnlyList`1<class OldWorldWarTable.Web.
+ 41.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.ObjectiveMoveFor(class Context,class OldWorldWarTable.Web.Services.BoardToken,class OldWorldWarTable.
+ 40.2%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.RepairSpot(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64,float
+ 38.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.CandidateWorth(class Context,class OldWorldWarTable.Web.Services.BoardToken,class MoveCandidate)
+ 38.3%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.Problem(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64,int32,bo
+ 35.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.Compute(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64)
+ 35.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.WalkRealGround(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,cla
+ 35.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.<WalkRealGround>g__Wheels|832_0(class OldWorldWarTable.Web.Services.BoardToken,int32,value class <>c_
+ 35.2%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.SkirmishWayProblem(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float
+ 35.2%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.SkirmishWay(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64)
+ 35.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.WorthAt(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64)
+ 34.6%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.OptionsFor(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile)
+ 34.2%  OldWorldWarTable.Web.Services.SkirmishStraightMove.PlanUnit(class System.Collections.Generic.IReadOnlyList`1<value class System.ValueTuple`2<float64,float64>>,c
+ 33.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.RealWalkTo(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class O
+ 32.2%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.BuildObjectives(class Context)
+ 29.4%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.FiveOptions(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class 
+ 29.0%  OldWorldWarTable.Web.Services.SkirmishStraightMove+<>c__DisplayClass10_1.<Plan>b__4(class Blocker)
+ 28.4%  OldWorldWarTable.Web.Services.ChargePhaseService.FindBestChargeApproach(class FootprintRow,class FootprintRow,float64,class System.Collections.Generic.IReadOnly
+ 28.4%  OldWorldWarTable.Web.Services.ChargePhaseService.ChargeDistanceNeeded(class FootprintRow,class FootprintRow,float64,class System.Collections.Generic.IReadOnlyCo
+ 27.8%  OldWorldWarTable.Web.Services.SkirmishStraightMove.SidestepRound(value class System.ValueTuple`2<float64,float64>,value class Leg,float64,float64,class Blocker,
+ 26.9%  0>>>,int32)
+ 26.9%  OldWorldWarTable.Web.Services.RectGeometry.TryGetMinimumTranslation(value class System.ValueTuple`2<float64,float64>[],value class System.ValueTuple`2<float64,f
+ 26.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<>c__DisplayClass1149_0.<WideSearchBest>g__Score|4(float64,float64,float64)
+ 22.9%  OldWorldWarTable.Web.Services.RectGeometry.MinDistance(value class System.ValueTuple`2<float64,float64>[],value class System.ValueTuple`2<float64,float64>[])
+ 19.3%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.BuildHolders(class Context)
+ 19.3%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.MakeHolderTable(class Context,bool,class System.Collections.Generic.Dictionary`2<class System.String,
+ 18.8%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.ArcThreats(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64)
+ 18.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.ChargeWay(class Context,class OldWorldWarTable.Web.Services.BoardToken,class OldWorldWarTable.Web.Ser
+ 18.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.NetAt(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64)
+ 17.2%  OldWorldWarTable.Web.Services.ChargePhaseService.FindLeadInApproach(class FootprintRow,class FootprintRow,float64,class System.Collections.Generic.IReadOnlyColl
+ 16.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.BestHolding(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class 
+ 15.4%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.OnTheTable(class Context,class OldWorldWarTable.Web.Services.Opponent.UnitObjectives,class System.Col
+ 15.2%  OldWorldWarTable.Web.Services.RectGeometry.BoxGap(value class System.ValueTuple`2<float64,float64>[],value class System.ValueTuple`2<float64,float64>[])
+ 11.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.HisActionsFor(class Context,class System.Collections.Generic.IReadOnlyDictionary`2<int32,class OldWor
+ 11.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.HisOwnChoice(class Context,class Context,class System.Collections.Generic.IReadOnlySet`1<int32>)
+ 11.4%  OldWorldWarTable.Web.Services.Opponent.SetUpReach.Compute(class OldWorldWarTable.Web.Services.Opponent.OpponentView,class OldWorldWarTable.Web.Services.Assessme
+ 10.5%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.TableLookBack(class Context,class System.Collections.Generic.IReadOnlyList`1<int32>,class System.Coll
+  9.6%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.LossThere(class OldWorldWarTable.Web.Services.Assessment.BattleAssessment,class OldWorldWarTable.Web.
+  9.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.BuildObjectiveMoves(class Context,class System.Collections.Generic.IReadOnlyList`1<class OldWorldWarT
+  8.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<>c__DisplayClass1340_0.<BuildObjectiveMoves>g__CandidatesOf|0(class OldWorldWarTable.Web.Services.Op
+  7.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.EnemyReply(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class O
+  7.5%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.MovesFromObjectivesAsync(class OldWorldWarTable.Web.Services.Opponent.OpponentView,class System.Colle
+  7.5%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<MovesFromObjectivesAsync>d__1401.MoveNext()
+  7.2%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.ChargeOption(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class
+  7.1%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.SupportAt(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class Ol
+  6.9%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.ChargeListFigure(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,c
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.HisBestMove(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class 
+  6.7%  0,class Context,class System.Threading.Tasks.Task`1<class System.Collections.Generic.List`1<class OldWorldWarTable.Web.Services.Opponent.DoctrineFlag>>>)
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<AskAsync>d__395`1[System.__Canon].MoveNext()
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.AskWithMoreAsync(class OldWorldWarTable.Web.Services.Opponent.OpponentView,class System.Collections.G
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<AskWithMoreAsync>d__1405.MoveNext()
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<ByFiguresAsync>d__262`1[System.__Canon].MoveNext()
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.ByFiguresAsync(class Context,class System.String,class System.Func`2<class Context,class System.Strin
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<>c__DisplayClass1405_0.<AskWithMoreAsync>b__0(class Context)
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<>c__DisplayClass1401_0.<MovesFromObjectivesAsync>b__2(class Context,class System.Collections.Generic
+  6.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<>c__DisplayClass1161_0`1[System.ValueTuple`4[System.Double,System.Double,System.Double,System.Boolea
+  6.4%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.ComputedNextCharge(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile
+  6.4%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<>c__DisplayClass1940_2.<SupportAt>b__5(value class System.ValueTuple`6<class ArcThreat,class OldWorl
+  6.3%  OldWorldWarTable.Web.Services.SkirmishStraightMove+<>c__DisplayClass10_0.<Plan>g__BlockedAt|1(value class System.ValueTuple`2<float64,float64>)
+  6.2%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.HisOwnBest(class HisSide,class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentP
+  6.1%  OldWorldWarTable.Web.Services.Assessment.AssessmentService.FleeLane(class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,value class System.Valu
+  5.8%  OldWorldWarTable.Web.Services.ChargePhaseService.WheelSweepBlocked(class FootprintRow,float64,class System.Collections.Generic.IReadOnlyCollection`1<value class
+  5.8%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.SetFightPlain(class OldWorldWarTable.Web.Services.Assessment.BattleAssessment,class System.Collection
+  5.7%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.LaterAt(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class OldW
+  5.5%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.TogetherGroupAt(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,cl
+--- self top
+ 99.3%  CPU_TIME
+  0.7%  UNMANAGED_CODE_TIME
+  0.0%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage+<GatedOpponentStepAsync>d__1186.MoveNext()
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<PlanTurnObjectivesAsync>d__1462.MoveNext()
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.TableAgain(class Context,class System.Collections.Generic.IReadOnlyList`1<class OldWorldWarTable.Web.
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<PlanMovesCoreAsync>d__1243.MoveNext()
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.MakeHolderTable(class Context,bool,class System.Collections.Generic.Dictionary`2<class System.String,
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<TableAgainAsync>d__1950.MoveNext()
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.BestHolding(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class 
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.Candidates(class Context,class OldWorldWarTable.Web.Services.Opponent.MoveOption,class OldWorldWarTab
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.HisOwnChoice(class Context,class Context,class System.Collections.Generic.IReadOnlySet`1<int32>)
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.FiveMoveOptions(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile)
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.TableLookBack(class Context,class System.Collections.Generic.IReadOnlyList`1<int32>,class System.Coll
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.OptionsFor(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile)
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.WideSearchBest(class Context,class OldWorldWarTable.Web.Services.Opponent.MoveOption,class OldWorldWa
+  0.0%  OldWorldWarTable.Web.Components.Pages.WarTable.PlayTurnStage+<ComputerRemainingStepAsync>d__1238.MoveNext()
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.FiveAt(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64,bool,bool
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain+<PlanMovesAsync>d__464.MoveNext()
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.FiveOptions(class Context,class OldWorldWarTable.Web.Services.Assessment.UnitAssessmentProfile,class 
+  0.0%  OldWorldWarTable.Web.Services.Opponent.ClaudeOpponentBrain.SkirmishWay(class Context,class OldWorldWarTable.Web.Services.BoardToken,float64,float64,float64)

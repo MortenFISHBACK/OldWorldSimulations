@@ -1,0 +1,4 @@
+STOP (owner, 2026-11-19 16:30 UTC, Morten: "stop here"): stop the run now (pkill -f simulate-local; pkill -f run-part.sh), no more retries.
+Then pack what is finished: run `bash run-part.sh <seed> <N>` is NOT needed; instead make sure <folder>/batch.tgz holds every saved game
+(re-pack with the tar line from run-part.sh's pack() if the last pack is older than the last finished game), copy any failed game's log as
+<game>-failed.log into your folder, touch <folder>/done, and report the count to the owner thread.

@@ -1,0 +1,25 @@
+Test run for /root/WarhammerOldWorldSimulator/tests/OldWorldWarTable.Web.Tests/bin/Release/net10.0/OldWorldWarTable.Web.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+[xUnit.net 00:30:42.42]     OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(pair: "L1731", scenario: 3, seed: 1) [FAIL]
+  Failed OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(pair: "L1731", scenario: 3, seed: 1) [30 m 38 s]
+  Error Message:
+   Microsoft.Data.Sqlite.SqliteException : SQLite Error 5: 'not an error'.
+  Stack Trace:
+     at Microsoft.Data.Sqlite.SqliteConnection.Deactivate()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.Dispose()
+   at Microsoft.EntityFrameworkCore.DbContext.Dispose()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.Dispose()
+   at Bunit.BunitServiceProvider.Dispose() in /_/src/bunit/BunitServiceProvider.cs:line 160
+   at Bunit.BunitContext.Dispose(Boolean disposing) in /_/src/bunit/BunitContext.cs:line 131
+   at Bunit.BunitContext.Dispose() in /_/src/bunit/BunitContext.cs:line 73
+   at OldWorldWarTable.Web.Tests.PlaythroughGame.Dispose() in /root/WarhammerOldWorldSimulator/tests/OldWorldWarTable.Web.Tests/PlaythroughGame.cs:line 1080
+   at OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(String pair, Int32 scenario, Int32 seed) in /root/WarhammerOldWorldSimulator/tests/OldWorldWarTable.Web.Tests/SimulationBatchTests.cs:line 363
+--- End of stack trace from previous location ---
+  Standard Output Messages:
+ Rules off: none
+ Carried lessons: 68 entries from /root/owwt-sim/base-s1-882d875-p3/carried-lessons.jsonl
+ Carried unit records: 1700 entries from /root/owwt-sim/base-s1-882d875-p3/carried-units.jsonl
+
+
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 30 m 38 s - OldWorldWarTable.Web.Tests.dll (net10.0)

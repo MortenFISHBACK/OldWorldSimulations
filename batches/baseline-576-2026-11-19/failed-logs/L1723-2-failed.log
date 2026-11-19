@@ -1,0 +1,21 @@
+Test run for /root/WarhammerOldWorldSimulator/tests/OldWorldWarTable.Web.Tests/bin/Release/net10.0/OldWorldWarTable.Web.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+[xUnit.net 00:41:55.53]     OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(pair: "L1723", scenario: 1, seed: 2) [FAIL]
+  Failed OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(pair: "L1723", scenario: 1, seed: 2) [41 m 52 s]
+  Error Message:
+   System.InvalidOperationException : A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+  Stack Trace:
+     at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at OldWorldWarTable.Web.Services.Claude.ClaudeLessonsService.UnguidedDecisionsAsync(Int32 gameSessionId, ArmySide side) in /root/WarhammerOldWorldSimulator/src/OldWorldWarTable.Web/Services/Claude/ClaudeLessonsService.Unguided.cs:line 48
+   at OldWorldWarTable.Web.Tests.SimulationBatchTests.ASimulatedGame_IsPlayedAndRecorded(String pair, Int32 scenario, Int32 seed) in /root/WarhammerOldWorldSimulator/tests/OldWorldWarTable.Web.Tests/SimulationBatchTests.cs:line 334
+--- End of stack trace from previous location ---
+  Standard Output Messages:
+ Rules off: none
+ Carried lessons: 68 entries from /root/owwt-sim/base-s2-882d875-p1/carried-lessons.jsonl
+ Carried unit records: 1700 entries from /root/owwt-sim/base-s2-882d875-p1/carried-units.jsonl
+
+
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 41 m 52 s - OldWorldWarTable.Web.Tests.dll (net10.0)
