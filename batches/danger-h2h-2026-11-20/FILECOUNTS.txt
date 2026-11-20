@@ -1,0 +1,16 @@
+mine-1 3
+mine-2 3
+mine-3 3
+mine-4 3
+mine-5 3
+mine-6 3
+mine-7 3
+mine-8 3
+opp-1 3
+opp-2 3
+opp-3 3
+opp-4 3
+opp-5 3
+opp-6 3
+opp-7 3
+opp-8 3
