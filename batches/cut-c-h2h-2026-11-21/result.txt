@@ -1,0 +1,6 @@
+parts in 45 missing [46, 47, 48]
+scored 127 unscored [('L0717', 5, '', '30.8', '1'), ('L1625', 9, '', '14.9', '1'), ('L1723', 9, '', '30.7', '1'), ('L1827', 22, '', '16.2', '2'), ('L0717', 29, '', '30.8', '1'), ('L1625', 33, '', '26.7', '1'), ('L1723', 33, '', '30.8', '1'), ('L2934', 36, '', '13.3', '1')]
+margin mean -98 sd 1057 se 94
+wins {'cut': 39, 'nocut': 55, 'draw': 33} findings 29 in games 28
+minutes cut 22.0 median 21.0; same pairs: n 123 cut 21.9 v no-cut 32.5 (-33%); median ratio 0.69
+pairs both ways 59 sum-margin mean -225 sd 942 se 123 cut better 27 worse 31 even 1

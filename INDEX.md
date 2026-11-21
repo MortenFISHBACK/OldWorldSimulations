@@ -20,3 +20,7 @@
 | join-bonus-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 597 | batches/join-bonus-h2h-2026-11-16/compare-all.md |
 | gun-fixes-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 634 | batches/gun-fixes-h2h-2026-11-16/compare-all.md |
 | one-sum-h2h-2026-11-16 | 2026-11-16 | ? | 288 | 614 | batches/one-sum-h2h-2026-11-16/compare-all.md |
+| cut-c-h2h-2026-11-21 | 2026-11-21 | c940641f | 135 | 36 | batches/cut-c-h2h-2026-11-21/ |
+| no-second-run-h2h-2026-11-21 | 2026-11-21 | c940641f | 144 | 38 | batches/no-second-run-h2h-2026-11-21/ |
+| no-old-one-move-guess-h2h-2026-11-21 | 2026-11-21 | c940641f | 144 | 38 | batches/no-old-one-move-guess-h2h-2026-11-21/ |
+| same-moves-in-play-2026-11-21 | 2026-11-21 | bb45c309 | 144 | 38 | batches/same-moves-in-play-2026-11-21/ |

@@ -1,0 +1,6 @@
+parts in 48 missing []
+scored 138 unscored [('L1723', 9, '', '31.0', '2'), ('L1026', 18, '', '18.6', '1'), ('L1224', 31, '', '23.8', '2'), ('L1723', 33, '', '32.6', '1'), ('L2934', 36, '', '22.4', '1'), ('L1827', 46, '', '25.8', '1')]
+margin mean 10 sd 1017 se 87
+wins {'cut': 53, 'nocut': 48, 'draw': 37} findings 27 in games 24
+minutes cut 19.3 median 18.2; same pairs: n 130 cut 18.9 v no-cut 33.0 (-43%); median ratio 0.58
+pairs both ways 67 sum-margin mean 27 sd 1000 se 122 cut better 34 worse 32 even 1

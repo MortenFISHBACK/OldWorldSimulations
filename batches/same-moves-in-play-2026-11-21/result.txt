@@ -1,0 +1,2 @@
+games 144 same result 144 different 0
+minutes new 15.5 old 19.4 (-20%), median ratio 0.81, n 140
