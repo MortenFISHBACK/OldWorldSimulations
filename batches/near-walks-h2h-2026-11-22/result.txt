@@ -1,0 +1,12 @@
+games 144 scored 144 unscored []
+margin W2 side mean 4 sd 1165 se 97
+wins {'w2': 65, 'real': 54, 'draw': 25}
+minutes mean 9.5 median 9.6
+v baseline (no Walk 2 either side) same pair seed 1: n 144 9.5 v 10.9 (-13%)
+pairs both ways 72 sum mean 9 se 105 better 19 worse 18 even 35
+avg VP scored W2 side 1213 real-walk side 1208
+
+Reading (2026-11-22): Walk 2 side +4 ±97 VP per game (+9 ±105 summed both ways per pair) = no measurable difference.
+35 of 72 pairs came out even both ways (mostly the same games). Wins 65 Walk 2, 54 real walk, 25 draws.
+Plan times are not recorded in sim games; game minutes 9.5 v 10.9 for the same pairs in baseline-576-2026-11-22b (no Walk 2 on
+either side, other containers) = rough only. The measured first-plan saving is in thinking-time-2026-11-21/first-plan-speed-2026-11-22/.
