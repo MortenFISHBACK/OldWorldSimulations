@@ -1,0 +1,12 @@
+parts in 96 missing []
+scored 281 unscored [('L1527', 9, 'no', '11.6', ''), ('L2934', 12, 'no', '7.8', ''), ('L2227', 47, 'no', '8.7', ''), ('L1527', 57, 'no', '11.8', ''), ('L2335', 59, 'no', '15.8', ''), ('L1827', 70, 'no', '13.7', ''), ('L2235', 71, 'no', '9.3', '')]
+margin mean -4 sd 1029 se 61
+wins {'on': 107, 'off': 115, 'draw': 59}
+minutes mean 9.7 median 9.6
+pairs both ways 138 sum-margin mean 9 sd 945 se 80; step 3 better 66 worse 66 even 6
+games 288
+GOAL ON TIME     parts 1-48 (on=Opponent):      67   parts 49-96 (on=Mine):      90
+NEAREST TO GOAL  parts 1-48 (on=Opponent):     573   parts 49-96 (on=Mine):     484
+GOAL ROUTE       parts 1-48 (on=Opponent):     294   parts 49-96 (on=Mine):     244
+FOOT FIRST       parts 1-48 (on=Opponent):    9603   parts 49-96 (on=Mine):    7311
+GOAL WALK        parts 1-48 (on=Opponent):   10074   parts 49-96 (on=Mine):    9820
