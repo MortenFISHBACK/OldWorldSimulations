@@ -1,0 +1,16 @@
+Challenge in the fight head-to-head, 2026-11-22. Build efd80675 (main 88d588db + challenge-in-the-fight). All 144 games
+(72 pairs both ways; part 38 re-run by another container). Every other rule on for both sides.
+
+Margin of the side WITH the rule: -34 +- 193 VP a game (144 games; ahead 72, behind 72). Pairs both ways: -34 +- 104 (72 pairs).
+Kill points difference -25 +- 109, objective points -10 +- 97. Verdict: no measurable difference in margin.
+
+Claimed against happened, taken single charges in contact (the figure's own per-round price on main, per wound):
+| Round | WITH: claimed | gave | ratio | WITHOUT: claimed | gave | ratio |
+| 1 | 24,152 | 13,222 | 1.83 | 28,672 | 12,822 | 2.24 |
+| 2 | 5,639 | 3,828 | 1.47 | 6,408 | 5,401 | 1.19 |
+| 3 | 2,476 | 2,376 | 1.04 | 2,227 | 4,247 | 0.52 |
+| 4+ | 2,993 | 3,073 | 0.97 | 2,017 | 3,399 | 0.59 |
+| Whole fight (gave incl. later and alive at end) | 35,260 | 27,736 | 1.27 | 39,324 | 29,294 | 1.34 |
+| Chargers' own loss | 10,368 | 10,284 | 1.01 | 10,735 | 12,134 | 0.88 |
+Charges: 249 with, 254 without. Scripts: scoring-steps-2026-11-21/scripts/h2h_result2.py, per_round.py (by side).
+Note: the SET FIGHT row's "r1 slain" still shows the round without the challenge (log only).
