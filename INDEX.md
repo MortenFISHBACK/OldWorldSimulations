@@ -24,3 +24,4 @@
 | no-second-run-h2h-2026-11-21 | 2026-11-21 | c940641f | 144 | 38 | batches/no-second-run-h2h-2026-11-21/ |
 | no-old-one-move-guess-h2h-2026-11-21 | 2026-11-21 | c940641f | 144 | 38 | batches/no-old-one-move-guess-h2h-2026-11-21/ |
 | same-moves-in-play-2026-11-21 | 2026-11-21 | bb45c309 | 144 | 38 | batches/same-moves-in-play-2026-11-21/ |
+| one-run-a-plan-h2h-2026-11-21 | 2026-11-22 | bb45c309 | 144 | 37 | batches/one-run-a-plan-h2h-2026-11-21/result.txt |
